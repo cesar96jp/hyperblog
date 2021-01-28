@@ -33,8 +33,9 @@ h1{
   font-size: 0.0em;
 }
 
-#cabecera img{
-    width: auto;
-    height: 20px;
-    vertical-align: middle;
+#footer{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
 }

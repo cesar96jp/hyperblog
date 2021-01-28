@@ -19,7 +19,7 @@ h1{
 }
 
 #cabecera{
-    background: rgb(12, 162, 182);
+    background: #33A;
     color: white;
     margin: 0;
     padding: 0.5em;
@@ -31,4 +31,10 @@ h1{
   padding: 0 0 0 1em;
   font-weight: normal;
   font-size: 0.0em;
+}
+
+#cabecera img{
+    width: auto;
+    height: 20px;
+    vertical-align: middle;
 }

@@ -32,3 +32,10 @@ h1{
   font-weight: normal;
   font-size: 0.0em;
 }
+
+#footer{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 00.5em;
+}
